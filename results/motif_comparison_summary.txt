@@ -1,0 +1,24 @@
+🧬 Shared in all 3 species (28 motifs):
+
+Examples: GGGAG, AGGGA, GGAAG, GGGGA, GGAAGG...
+
+🔶 Shared only between Human and Chimpanzee (42 motifs):
+Examples: GAGGGA, AGGGAG, GGAGAG...
+
+🔹 Shared only between Human and Mouse (12 motifs):
+Examples: GGGGC, AGGAGG...
+
+🔸 Shared only between Chimpanzee and Mouse (9 motifs):
+Examples: GAGAGG, AGGGAA...
+
+---
+
+🧬 Unique to Human: 43 motifs  
+🧬 Unique to Chimpanzee: 31 motifs  
+🧬 Unique to Mouse: 26 motifs
+
+---
+
+🔁 Total Unique Motifs Across All Species: 224
+✅ Total Overlapping Motifs: 70
+
